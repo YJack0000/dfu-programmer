@@ -4,8 +4,8 @@ correct bootloader) Atmel chips.  This program was created because the
 Atmel "FLIP" program for flashing devices does not support flashing via USB
 on Linux, and because standard DFU loaders do not work for Atmel's chips.
 
-Check out the Atmel website for more information.  They are kind enough to
-provide generally correct specifications this implementation is based on.
+Check out the Atmel website for more information. They are kind enough to
+provide generally correct specifications on this implementation is based on.
 
 The project website is http://dfu-programmer.github.io and you can
 use that to check for updates.
